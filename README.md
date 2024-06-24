@@ -1,1 +1,1 @@
-# StudyReactRedux2
+# ReactHooks and ReduxToolkit Study
